@@ -1,4 +1,4 @@
-module ocarina.org/hello
+module github.com/tsaicw/hello
 
 go 1.14
 
